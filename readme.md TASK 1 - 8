@@ -337,9 +337,3 @@ Iterative methods can be used to estimate temperatures at different points insid
 | Task 7 | LU decomposition | Reusing matrix factorization to solve multiple systems |
 | Task 8 | Iterative methods | Comparing Jacobi and Gauss-Seidel solutions |
 
-# REFERENCES
-
-- Python Documentation: https://docs.python.org/3/
-- NumPy Documentation: https://numpy.org/doc/
-- SciPy Documentation: https://docs.scipy.org/doc/scipy/
-- Matplotlib Documentation: https://matplotlib.org/stable/
